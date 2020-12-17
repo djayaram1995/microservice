@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="cloud-config-server/.mvn/wrapper"/>
+	<classpathentry kind="src" path="cloud-config-server/src/main/java"/>
+	<classpathentry kind="src" path="cloud-config-server/src/test/java"/>
+	<classpathentry kind="src" path="currency-conversion-service/.mvn/wrapper"/>
+	<classpathentry kind="src" path="currency-conversion-service/src/main/java"/>
+	<classpathentry kind="src" path="currency-conversion-service/src/test/java"/>
+	<classpathentry kind="src" path="currency-exchange-service/.mvn/wrapper"/>
+	<classpathentry kind="src" path="currency-exchange-service/src/main/java"/>
+	<classpathentry kind="src" path="currency-exchange-service/src/test/java"/>
+	<classpathentry kind="src" path="limit-service/.mvn/wrapper"/>
+	<classpathentry kind="src" path="limit-service/src/main/java"/>
+	<classpathentry kind="src" path="limit-service/src/test/java"/>
+	<classpathentry kind="output" path="cloud-config-server/target/classes"/>
+</classpath>
